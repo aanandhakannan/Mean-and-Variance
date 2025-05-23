@@ -1,5 +1,9 @@
 #  Mean and variance of a discrete  distribution
+NAME:AANANDHA KANNAN.S
 
+DATE-23-05-2025
+
+REG NO :212224040003
 
 # Aim : 
 
